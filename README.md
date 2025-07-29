@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm SEMLALI Khalil</h1>
 <h3 align="center">🎓 Junior DevOps & Cloud Engineer | Passionné par la data, le système et l’innovation | En recherche active d’opportunités</h3>
 
-- 🛠️ **Stage – Ingénieur Méthodes et Industrialisation** **SNCF Voyageurs* (Juin – Décembre 2024) ➤ Suivi documentaire, automatisation de traitements avec Excel/VBA ➤ Visualisation de données avec Power BI (diagrammes Gantt) ➤ Coordination des équipes techniques et suivi de la conformité projet**
+- 🛠️ **Stage – Ingénieur Méthodes et Industrialisation** **SNCF Voyageurs* (Juin – Décembre 2024)
+➤ Suivi documentaire, automatisation de traitements avec Excel/VBA 
+➤ Visualisation de données avec Power BI (diagrammes Gantt)
+➤ Coordination des équipes techniques et suivi de la conformité projet**
 
-- 🧑‍💻 **Stage – Administrateur Systèmes & Réseaux** ***Attijariwafa Bank Europe* (Avril – Août 2023) ➤ Supervision des serveurs Windows Server 2019 et systèmes Linux ➤ Mise en place de dashboards techniques avec Umibre ➤ Renforcement des politiques de sécurité et gestion des incidents**
+- 🧑‍💻 **Stage – Administrateur Systèmes & Réseaux** ***Attijariwafa Bank Europe* (Avril – Août 2023) 
+➤ Supervision des serveurs Windows Server 2019 et systèmes Linux 
+➤ Mise en place de dashboards techniques avec Umibre 
+➤ Renforcement des politiques de sécurité et gestion des incidents**
 
-- 🐍 **Stage – Développeur Python** ***Attijariwafa Bank Casablanca* (2022) ➤ Création d’une interface graphique avec Tkinter pour des scripts internes**
+- 🐍 **Stage – Développeur Python** ***Attijariwafa Bank Casablanca* (2022) 
+➤ Création d’une interface graphique avec Tkinter pour des scripts internes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
